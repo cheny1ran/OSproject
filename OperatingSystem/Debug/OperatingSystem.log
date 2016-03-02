@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/1/22 23:33:55。
+     1>项目“D:\Users\cyan\cproject\OperatingSystem\OperatingSystem\OperatingSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OperatingSystem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OperatingSystem.cpp
+         OperatingSystem.cpp
+     1>d:\users\cyan\cproject\operatingsystem\operatingsystem\operatingsystem.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\cyan\cproject\operatingsystem\operatingsystem\operatingsystem.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\cyan\cproject\operatingsystem\operatingsystem\operatingsystem.cpp(21): warning C4101: “bufb”: 未引用的局部变量
+     1>d:\users\cyan\cproject\operatingsystem\operatingsystem\operatingsystem.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\cyan\cproject\operatingsystem\operatingsystem\operatingsystem.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\cyan\cproject\OperatingSystem\Debug\OperatingSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\cyan\cproject\OperatingSystem\Debug\OperatingSystem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\cyan\cproject\OperatingSystem\Debug\OperatingSystem.lib" /MACHINE:X86 Debug\filenode.obj
+         Debug\OperatingSystem.obj
+         Debug\stdafx.obj
+         Debug\user.obj
+         OperatingSystem.vcxproj -> D:\Users\cyan\cproject\OperatingSystem\Debug\OperatingSystem.exe
+     1>已完成生成项目“D:\Users\cyan\cproject\OperatingSystem\OperatingSystem\OperatingSystem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.59
